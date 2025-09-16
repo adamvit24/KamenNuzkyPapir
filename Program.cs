@@ -5,21 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            nigger
-                dasdasd
-                ds
-                ds
-                ds
-                ds
-                ds
+            skbiid
 
-                ds
-                ds
-                sd
-                sd
-                ds
-                sd
-                sd
 
         }
     }
